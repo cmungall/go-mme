@@ -21,7 +21,7 @@
       take tens of minutes depending on the complexity
     - To create a new model from just a DB, use [Wizard] > (fill out
       second section) > [Generate]; this operation may take minutes
-      depending on the size of the GAF to be loaded
+      depending on the size of the GAF to be loaded (if not already loaded by the server)
     - Directly loading by copy-and-paste is not currently tested
 
 *** Instances and edges
